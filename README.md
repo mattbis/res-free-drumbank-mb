@@ -5,4 +5,4 @@
 2. could generate a metric ton of these... they dont take long; ( although one should argue that they are dry and I should give you WetFX )
 3. should use collider and pd probably 
 
-#### attribute `@mattbis` would be nice ... 
+#### attribute `@mattbis` would be nice ... ( if its public )
